@@ -2,7 +2,7 @@
 
 
 
-git clone --recursive https://github.com/mdo992/boronide-bot.git
+git clone --recursive https://github.com/1shotkillsniperstrikeshot/Hex-bot
 ```
 
 lalalalaalaaalalallalal
