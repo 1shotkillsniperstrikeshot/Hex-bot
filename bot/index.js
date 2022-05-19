@@ -14,7 +14,7 @@ let settings = {
     'BeautifyDebug': true,
     'PrintStep': false,
     'JIT': false,
-    'Watermark': `Boronide, discord.gg/BZEjFbeUvk`,
+    'Watermark': `Hexbot, FNAF 5 IS COOL`,
     'Uid': createID(4),
 
     'AntiTamper': true,
